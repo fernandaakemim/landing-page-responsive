@@ -8,5 +8,6 @@ Bem-vindo ao projeto Meteora, uma landing page fictícia para um e-commerce de m
 - Página inicial intuitiva e atraente para atrair clientes em potencial.
 - Estrutura de código limpa e organizada em HTML e CSS.
 - Facilmente personalizável para suas necessidades específicas.
+- [Demo](https://landing-page-responsive-xi.vercel.app/)
 
   ![screenshot-meteora](https://github.com/fernandaakemim/landing-page-responsive/assets/95256504/adb1448b-7008-4deb-9b6b-4a68266ff0f7)
